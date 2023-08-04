@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-Feb-2021, 12:32:40
+    Author     : JOSSY PC
+*/
+
+.margin-bottom-xxl{
+    position: relative;
+    margin-bottom: 10rem;
+}
+.margin-bottom-xl{
+    position: relative;
+    margin-bottom: 5rem;
+}
+.margin-bottom-lg{
+    position: relative;
+    margin-bottom: 3rem;
+}
+.margin-bottom-md{
+    position: relative;
+    margin-bottom: 2rem;
+}
+.margin-bottom-sm{
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.margin-left-xxl{
+    position: relative;
+    margin-left: 10rem;
+}
+.margin-left-xl{
+    position: relative;
+    margin-left: 5rem;
+}
+.margin-left-lg{
+    position: relative;
+    margin-left: 3rem;
+}
+.margin-left-md{
+    position: relative;
+    margin-left: 2rem;
+}
+.margin-left-sm{
+    position: relative;
+    margin-left: 1rem;
+}
+.margin-right-xxl{
+    position: relative;
+    margin-right: 10rem;
+}
+.margin-right-xl{
+    position: relative;
+    margin-right: 5rem;
+}
+.margin-right-lg{
+    position: relative;
+    margin-right: 3rem;
+}
+.margin-right-md{
+    position: relative;
+    margin-right: 2rem;
+}
+.margin-right-sm{
+    position: relative;
+    margin-right: 1rem;
+}
+.margin-top-xxl{
+    position: relative;
+    margin-top: 10rem;
+}
+.margin-top-xl{
+    position: relative;
+    margin-top: 5rem;
+}
+.margin-top-lg{
+    position: relative;
+    margin-top: 3rem;
+}
+.margin-top-md{
+    position: relative;
+    margin-top: 2rem;
+}
+.margin-top-sm{
+    position: relative;
+    margin-top: 1rem;
+}

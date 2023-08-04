@@ -1,0 +1,240 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-Feb-2021, 12:41:54
+    Author     : JOSSY PC
+*/
+
+.text-xl{
+    font-size: 4rem;
+}
+.text-bold{
+    font-weight: bold;
+}
+.text-lg{
+    font-size: 3rem;
+}
+.text-md-1{
+    font-size: 2.5rem;
+}
+.text-md{
+    font-size: 2rem;
+}
+.text-sm-1{
+    font-size: 1.4rem;
+}
+.text-sm{
+    font-size: 1rem;
+}
+.text-xs{
+    font-size: 0.5rem;
+}
+.text-10px{
+    font-size: 10px;
+}
+.text-11px{
+    font-size: 11px;
+}
+.text-12px{
+    font-size: 12px;
+}
+.text-13px{
+    font-size: 13px;
+}
+.text-14px{
+    font-size: 14px;
+}
+.text-15px{
+    font-size: 15px;
+}
+.text-16px{
+    font-size: 16px;
+}
+.text-17px{
+    font-size: 17px;
+}
+.text-18px{
+    font-size: 18px;
+}
+.text-19px{
+    font-size: 19px;
+}
+.text-20px{
+    font-size: 20px;
+}
+.text-21px{
+    font-size: 21px;
+}
+.text-22px{
+    font-size: 22px;
+}
+.text-23px{
+    font-size: 23px;
+}
+.text-24px{
+    font-size: 24px;
+}
+.text-25px{
+    font-size: 25px;
+}
+.text-26px{
+    font-size: 26px;
+}
+.text-27px{
+    font-size: 27px;
+}
+.text-28px{
+    font-size: 28px;
+}
+.text-29px{
+    font-size: 29px;
+}
+.text-30px{
+    font-size: 30px;
+}
+.text-31px{
+    font-size: 31px;
+}
+.text-32px{
+    font-size: 32px;
+}
+.text-33px{
+    font-size: 33px;
+}
+.text-34px{
+    font-size: 34px;
+}
+.text-35px{
+    font-size: 35px;
+}
+.text-36px{
+    font-size: 36px;
+}
+.text-37px{
+    font-size: 37px;
+}
+.text-38px{
+    font-size: 38px;
+}
+.text-39px{
+    font-size: 39px;
+}
+.text-40px{
+    font-size: 40px;
+}
+.text-41px{
+    font-size: 41px;
+}
+.text-42px{
+    font-size: 42px;
+}
+.text-43px{
+    font-size: 43px;
+}
+.text-44px{
+    font-size: 44px;
+}
+.text-45px{
+    font-size: 45px;
+}
+.text-46px{
+    font-size: 46px;
+}
+.text-47px{
+    font-size: 47px;
+}
+.text-48px{
+    font-size: 48px;
+}
+.text-49px{
+    font-size: 49px;
+}
+.text-50px{
+    font-size: 50px;
+}
+@media (max-width: 1250px){
+    .text-xl{
+        font-size: 3rem;
+    }
+    .text-lg{
+        font-size: 2rem;
+    }
+    .text-md-1{
+        font-size: 1.8rem;
+    }
+    .text-md{
+        font-size: 1.5rem;
+    }
+    .text-sm-1{
+        font-size: 1rem;
+    }
+    .text-sm{
+        font-size: 0.8rem;
+    }
+    .text-xs{
+        font-size: 0.5rem;
+    }
+}
+.text-align-center{
+    margin: 0 auto;
+}
+.text-color-white{
+    color: #fff;
+}
+.text-color-green{
+    color: green;
+}
+.text-color-darkgreen{
+    color: #023020;
+}
+.text-color_gold_citrine{
+     color: #e4d00a;
+ }
+.text-color-gray{
+     color: gray;
+ }
+.text-color-cyan{
+     color: cyan;
+ }
+.input-xl{
+    width: 95%;
+}
+.input-lg{
+    width: 75%;
+}
+.input-md{
+    width: 50%;
+}
+.input-select{
+    width: auto;
+}
+.text-overflow-auto{
+    overflow: auto;
+}
+.text-overflow-hidden{
+    overflow: hidden;
+}
+.text-overflow-scroll{
+    overflow: scroll;
+}
+.text-overflow-y-auto{
+    overflow-y: auto;
+}
+.text-overflow-y-hidden{
+    overflow-y: hidden;
+}
+.text-overflow-y-scroll{
+    overflow-y: scroll;
+}
+.text-overflow-x-auto{
+    overflow-x: auto;
+}
+.text-overflow-x-hidden{
+    overflow-x: hidden;
+}
+.text-overflow-x-scroll{
+    overflow-x: scroll;
+}

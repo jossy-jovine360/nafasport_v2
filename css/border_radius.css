@@ -1,0 +1,171 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 9 Oct 2022, 8:26:21 AM
+    Author     : josiah
+*/
+
+/********************* Border Radius Dimensions **********************/
+.border-radius-50{
+    border-radius: 50%;
+}
+.border-radius-10{
+    border-radius: 10%;
+}
+.border-radius-5{
+    border-radius: 5%;
+}
+.border-radius-5px{
+    border-radius: 5px;
+}
+.border-radius-10px{
+    border-radius: 10px;
+}
+.border-radius-50px{
+    border-radius: 50px;
+}
+/*================ TOP ==============*/
+
+.border-top-radius-5px{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.border-top-radius-10px{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.border-top-radius-15px{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.border-top-radius-20px{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.border-top-radius-50px{
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+/*----------- percent ----------*/
+.border-top-radius-5{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.border-top-radius-10{
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+.border-top-radius-15{
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+.border-top-radius-20{
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
+.border-top-radius-50{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+/*================== Bottom ===============*/
+/*------------- pixel -----------*/
+.border-bottom-radius-5px{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.border-bottom-radius-10px{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.border-bottom-radius-15px{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.border-bottom-radius-20px{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.border-bottom-radius-40px{
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+/*--------- percent -------------*/
+.border-bottom-radius-5{
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.border-bottom-radius-10{
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.border-bottom-radius-15{
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
+.border-bottom-radius-20{
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+.border-bottom-radius-40{
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+
+/*================== Right ====================*/
+/*------------- pixel -----------*/
+.border-right-radius-5px{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.border-right-radius-10px{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.border-right-radius-20px{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+/*------------ Percent -------------*/
+.border-right-radius-5{
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.border-right-radius-10{
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+.border-right-radius-20{
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+/*================== Left ====================*/
+/*------------- pixel -----------*/
+.border-left-radius-5px{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.border-left-radius-10px{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.border-left-radius-20px{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+/*------------ Percent -------------*/
+.border-left-radius-5{
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+.border-left-radius-10px{
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+.border-left-radius-20px{
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+/********************* Border Radius Dimensions **********************/

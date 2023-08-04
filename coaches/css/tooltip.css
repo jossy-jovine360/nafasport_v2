@@ -1,0 +1,102 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18 Jun 2022, 8:30:14 PM
+    Author     : josiah
+*/
+
+[data-tooltip]{
+    position: relative;
+    cursor: default;
+}
+[data-tooltip]::after{
+    position: absolute;
+    width: auto;
+    left: calc(50% - 70px);
+    bottom: 125%;
+    text-align: center;
+    box-sizing: border-box;
+    content: attr(data-tooltip);
+    color: #ffffff;
+    background: #69352A;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s, transform 0.2s;
+    z-index: 100;
+
+}
+/*[data-tooltip]::before{
+    content: "";
+    position:absolute;
+
+     position tooltip correctly 
+    bottom: 30%;
+    margin-top:-15px;
+
+     vertically center 
+    left: 45%;
+    transform: translateX(-50%);
+
+     the arrow 
+    border:10px solid #000;
+    border-color: black transparent transparent transparent;
+
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s, transform 0.2s;
+
+    display:none;
+}*/
+[data-tooltip]:hover::after{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    z-index: 100;
+}
+[data-tooltip]:hover::before{
+    opacity: 1;
+    visibility: visible;
+    /*transform: translateY(0);*/
+}
+
+ /*=============== tooltip placement left ===============*/
+ [data-tooltip-left]{
+    position: relative;
+    cursor: default;
+}
+[data-tooltip-left]::after{
+    position: absolute;
+    width: 100px;
+/*    left: calc(50% - 70px);*/
+    right: 120%;
+    
+    /*bottom: 1%;*/
+    text-align: center;
+    box-sizing: border-box;
+    content: attr(data-tooltip-left);
+    color: #ffffff;
+    background: #69352A;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 0.9em;
+    font-weight: bold;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s, transform 0.2s;
+    z-index: 100;
+
+}
+[data-tooltip-left]:hover::after{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(-15px);
+    z-index: 100;
+}

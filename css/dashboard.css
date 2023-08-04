@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-May-2021, 14:47:04
+    Author     : JOSSY
+*/
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.panel{
+    padding: 10px;
+    width: 100%;
+    height: 300px;   
+}
+.panel-content{
+    position: relative;
+    padding-top: 1%;
+    height: 90%;
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #008080;
+}
+.sticker-label{
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.result-align{
+    text-align: center;
+}
+.center-align{
+    text-align: center;   
+    vertical-align: middle;
+}
+.dashboard-shadow{
+    box-shadow: 2px 2px 5px #008080;
+}
+.description{
+    padding: 5%;
+    text-align: center;
+    text-decoration: none;
+}
+.panel-link{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.panel-label{
+    text-align: center;
+    font-weight: bolder;
+}
+.img-panel{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+.img-panel-last{
+    position: relative;
+    width: 40%;
+    height: 40%;
+    margin: 0 auto;
+}
+/*@media (min-width: 576px) { 
+    .img-panel{
+        position: relative;
+        width: 30%;
+        height: 30%;
+        margin: 0 auto;
+    }
+    .panel{
+        padding: 10px;
+        width: 100%;
+        height: 320px;   
+    }
+    .description{
+        padding: 5%;
+        margin-top: 5rem;
+        text-align: center;
+        text-decoration: none;
+    }
+}*/
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) {
+    .img-panel{
+        position: relative;
+        width: 40%;
+        height: 35%;
+        margin: 0 auto;
+    }
+    .img-panel-last{
+        position: relative;
+        width: 30%;
+        height: 25%;
+        margin: 0 auto;
+    }
+    .panel{
+        padding: 10px;
+        width: 100%;
+        height: 350px;   
+    }
+    .description{
+        padding: 5%;
+        margin-top: 5rem;
+        text-align: center;
+        text-decoration: none;
+    }
+}
